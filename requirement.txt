@@ -1,2 +1,4 @@
 flask
 requests
+streamlit>=1.37
+pandas
